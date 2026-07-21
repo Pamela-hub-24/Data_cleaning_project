@@ -57,13 +57,7 @@ Data_cleaning_project/
 
 
 
----
-
-## 🔒 Dataset Notice
-
-The dataset used for this project was provided as part of an internship exercise. It is **not included** in this public repository to respect data ownership and confidentiality.
-
-This repository contains the source code demonstrating the complete data cleaning workflow.
+-
 
 ---
 
@@ -99,6 +93,6 @@ jupyter notebook
 
 ## 👩‍💻 Author
 
-**Pamela**
+**Folahan Promise**
 
 Aspiring Data Analyst passionate about transforming raw data into meaningful insights using Python and data analytics.
