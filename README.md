@@ -51,10 +51,11 @@ The following data cleaning techniques were applied:
 
 
 Data_cleaning_project/
-│
+
 ├── Data_Cleaning_Project.ipynb
 ├── README.md
-
+├── Data_Cleaning_Project.csv
+├── Cleaned_Dataset
 
 
 -
